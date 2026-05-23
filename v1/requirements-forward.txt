@@ -1,0 +1,5 @@
+# Optional enrichment for 0007_human_forward.py
+openbb
+beautifulsoup4
+# Optional top-2 cross-check layer (LLM based)
+tradingagents
